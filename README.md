@@ -7,7 +7,9 @@ About the Project
 I built this project using a Raspberry Pi 5, servo motors, a buzzer, and a 5-inch HDMI LCD. The medication compartments are organized using a 3D-printed rotating disk.
 
 I designed the 3D-printed parts using Fusion 360 and programmed the system with Python.
-![Medication Guardian](medication-guardian.jpg)
+![Medication Guardian](medication-guardian.jpg.jpeg)
+
+
 Hardware
 
 - Raspberry Pi 5
